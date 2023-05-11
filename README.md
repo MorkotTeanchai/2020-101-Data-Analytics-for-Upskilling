@@ -1,7 +1,11 @@
 # 101-Data-Analytics-for-Upskilling
+
 **Online Class Name:** 101 Data Analytics for Upskilling
+
 **By:** SCB Academy , AIT , depa
+
 **Date/Time :** 2020
+
 **Learning with:** 
  - การใช้เครื่องมือในการวิเคราะห์ข้อมูล  Power BI (Data Analytics Tools  Power BI Course)
  - การวิเคราะห์รายละเอียดของข้อมูล ด้วยการคิดเชิงวิพากษ์(Exploratory Data Analysis with Critical Thinking)
